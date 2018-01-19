@@ -1,6 +1,19 @@
 # Super Mario
 
-You can use the [editor on GitHub](https://github.com/p15syme/Final-Report-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Ονοματεπώνυμο:Αριστοτέλης Συμεωνίδης
+### ΑΜ: Π2015178
+### e-mail: p15syme@ionio.gr
+#### Προσωπικό Αποθετήριο Μαθήματος (Multimedia): https://github.com/p15syme/mm 
+#### Προσωπικό Αποθετήριο Θέματος Εργασίας (Super Mario): https://github.com/p15syme/Super-Mario/tree/master 
+#### Ενεργό URL παιχνιδιού: https://p15syme.github.io/Super-Mario/ 
+#### gh-pages: https://github.com/p15syme/Super-Mario/tree/gh-pages
+#### Link Ιστοσελίδας Τελικής Αναφοράς: https://p15syme.github.io/Final-Report-/
+
+## Σύνοψη:
+  Το παιχνίδι ξεκινάει με ένα menu, όπου ο χρήστης μπορεί να επιλέξει να παίξει μία από τις δύο πίστες. Επίσης, ενημερώνει τον χρήστη τι χρειάζεται να κάνει για παίξει σωστά το παιχνίδι. Στη συνέχεια, ο χρήστης παίζει με τα βελάκια ,όπως στο κλασσικό Super Mario. Όταν φτάσει το σκορ των 14.000 πόντων και πατήσει Enter πάει στο δεύτερο επίπεδο. Στη συνέχεια, όταν φτάσει σε ένα συγκεκριμένο σκορ, το οποίο δεν είναι γνωστό και πατήσει Enter, κερδίζει το παιχνίδι, όπου και εμφανίζεται ένα μήνυμα στην οθόνη.
+  
+## Εισαγώγη:
+  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
